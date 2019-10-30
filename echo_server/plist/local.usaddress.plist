@@ -1,14 +1,18 @@
 <!--
 TO RUN "usaddress" IN THE BACKGROUND:
 1) Save this .plist file in ~/Library/LaunchAgents
+2) Change strings as appropriate, to reflect the current file structure:
+	a) StandardErrorPath
+	b) StandardOutPath
+	c) WorkingDirectory
+	d) ProgramArguments
 2) At the command line, run:
 	launchctl load ~/Library/LaunchAgents/local.usaddress.plist
 
 TO SIMULATE A CLIENT USING THE "usaddress" SERVER WHILE IT'S RUNNING:
 1) Edit code in usaddress/echo_server/socket_echo_client.py and/or usaddress/echo_server/socket_echo_client_multiplier.py, as desired
-2) cd to the usaddress/echo_server directory
-3) At the command line, run:
-	python ./socket_echo_client_multiplier.py
+2) At the command line, run:
+	python [YOUR_USADDRESS_ROOT_LOCATION]/usaddress/echo_server/socket_echo_client_multiplier.py
 4) Server side should process addresses input from client
 
 TO STOP "usaddress" RUNNING IN THE BACKGROUND:
@@ -26,9 +30,6 @@ TO STOP "usaddress" RUNNING IN THE BACKGROUND:
 
     <key>RunAtLoad</key>
     <true/>
-
-    <key>StartInterval</key>
-    <integer>20</integer>
 
     <key>StandardErrorPath</key>
     <string>/Users/jasonflorack/Code/usaddress/echo_server/logs/stderr.log</string>
