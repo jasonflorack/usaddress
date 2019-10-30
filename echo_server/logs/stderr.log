@@ -1,0 +1,1312 @@
+starting up on localhost port 10000
+waiting for a connection
+connection from ('127.0.0.1', 51855)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51855)
+waiting for a connection
+connection from ('127.0.0.1', 51856)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51856)
+waiting for a connection
+connection from ('127.0.0.1', 51857)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51857)
+waiting for a connection
+connection from ('127.0.0.1', 51858)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51858)
+waiting for a connection
+connection from ('127.0.0.1', 51859)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51859)
+waiting for a connection
+connection from ('127.0.0.1', 51860)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51860)
+waiting for a connection
+connection from ('127.0.0.1', 51861)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51861)
+waiting for a connection
+connection from ('127.0.0.1', 51862)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51862)
+waiting for a connection
+connection from ('127.0.0.1', 51863)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51863)
+waiting for a connection
+connection from ('127.0.0.1', 51864)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51864)
+waiting for a connection
+connection from ('127.0.0.1', 51865)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51865)
+waiting for a connection
+connection from ('127.0.0.1', 51866)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51866)
+waiting for a connection
+connection from ('127.0.0.1', 51867)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51867)
+waiting for a connection
+connection from ('127.0.0.1', 51868)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51868)
+waiting for a connection
+connection from ('127.0.0.1', 51869)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51869)
+waiting for a connection
+connection from ('127.0.0.1', 51870)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51870)
+waiting for a connection
+connection from ('127.0.0.1', 51871)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51871)
+waiting for a connection
+connection from ('127.0.0.1', 51872)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51872)
+waiting for a connection
+connection from ('127.0.0.1', 51873)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51873)
+waiting for a connection
+connection from ('127.0.0.1', 51874)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51874)
+waiting for a connection
+connection from ('127.0.0.1', 51875)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51875)
+waiting for a connection
+connection from ('127.0.0.1', 51876)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51876)
+waiting for a connection
+connection from ('127.0.0.1', 51877)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51877)
+waiting for a connection
+connection from ('127.0.0.1', 51878)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51878)
+waiting for a connection
+connection from ('127.0.0.1', 51879)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51879)
+waiting for a connection
+connection from ('127.0.0.1', 51880)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51880)
+waiting for a connection
+connection from ('127.0.0.1', 51881)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51881)
+waiting for a connection
+connection from ('127.0.0.1', 51882)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51882)
+waiting for a connection
+connection from ('127.0.0.1', 51883)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51883)
+waiting for a connection
+connection from ('127.0.0.1', 51884)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51884)
+waiting for a connection
+connection from ('127.0.0.1', 51885)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51885)
+waiting for a connection
+connection from ('127.0.0.1', 51886)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51886)
+waiting for a connection
+connection from ('127.0.0.1', 51887)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51887)
+waiting for a connection
+connection from ('127.0.0.1', 51888)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51888)
+waiting for a connection
+connection from ('127.0.0.1', 51889)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51889)
+waiting for a connection
+connection from ('127.0.0.1', 51890)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51890)
+waiting for a connection
+connection from ('127.0.0.1', 51891)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51891)
+waiting for a connection
+connection from ('127.0.0.1', 51892)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51892)
+waiting for a connection
+connection from ('127.0.0.1', 51893)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51893)
+waiting for a connection
+connection from ('127.0.0.1', 51894)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51894)
+waiting for a connection
+connection from ('127.0.0.1', 51895)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51895)
+waiting for a connection
+connection from ('127.0.0.1', 51896)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51896)
+waiting for a connection
+connection from ('127.0.0.1', 51897)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51897)
+waiting for a connection
+connection from ('127.0.0.1', 51898)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51898)
+waiting for a connection
+connection from ('127.0.0.1', 51899)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51899)
+waiting for a connection
+connection from ('127.0.0.1', 51900)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51900)
+waiting for a connection
+connection from ('127.0.0.1', 51901)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51901)
+waiting for a connection
+connection from ('127.0.0.1', 51902)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51902)
+waiting for a connection
+connection from ('127.0.0.1', 51903)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51903)
+waiting for a connection
+connection from ('127.0.0.1', 51904)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51904)
+waiting for a connection
+connection from ('127.0.0.1', 51905)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51905)
+waiting for a connection
+connection from ('127.0.0.1', 51906)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51906)
+waiting for a connection
+connection from ('127.0.0.1', 51907)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51907)
+waiting for a connection
+connection from ('127.0.0.1', 51908)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51908)
+waiting for a connection
+connection from ('127.0.0.1', 51909)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51909)
+waiting for a connection
+connection from ('127.0.0.1', 51910)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51910)
+waiting for a connection
+connection from ('127.0.0.1', 51911)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51911)
+waiting for a connection
+connection from ('127.0.0.1', 51912)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51912)
+waiting for a connection
+connection from ('127.0.0.1', 51913)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51913)
+waiting for a connection
+connection from ('127.0.0.1', 51914)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51914)
+waiting for a connection
+connection from ('127.0.0.1', 51915)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51915)
+waiting for a connection
+connection from ('127.0.0.1', 51916)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51916)
+waiting for a connection
+connection from ('127.0.0.1', 51917)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51917)
+waiting for a connection
+connection from ('127.0.0.1', 51918)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51918)
+waiting for a connection
+connection from ('127.0.0.1', 51919)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51919)
+waiting for a connection
+connection from ('127.0.0.1', 51920)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51920)
+waiting for a connection
+connection from ('127.0.0.1', 51921)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51921)
+waiting for a connection
+connection from ('127.0.0.1', 51922)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51922)
+waiting for a connection
+connection from ('127.0.0.1', 51923)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51923)
+waiting for a connection
+connection from ('127.0.0.1', 51924)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51924)
+waiting for a connection
+connection from ('127.0.0.1', 51925)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51925)
+waiting for a connection
+connection from ('127.0.0.1', 51926)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51926)
+waiting for a connection
+connection from ('127.0.0.1', 51927)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51927)
+waiting for a connection
+connection from ('127.0.0.1', 51928)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51928)
+waiting for a connection
+connection from ('127.0.0.1', 51929)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51929)
+waiting for a connection
+connection from ('127.0.0.1', 51930)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51930)
+waiting for a connection
+connection from ('127.0.0.1', 51931)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51931)
+waiting for a connection
+connection from ('127.0.0.1', 51932)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51932)
+waiting for a connection
+connection from ('127.0.0.1', 51933)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51933)
+waiting for a connection
+connection from ('127.0.0.1', 51934)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51934)
+waiting for a connection
+connection from ('127.0.0.1', 51935)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51935)
+waiting for a connection
+connection from ('127.0.0.1', 51936)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51936)
+waiting for a connection
+connection from ('127.0.0.1', 51937)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51937)
+waiting for a connection
+connection from ('127.0.0.1', 51938)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51938)
+waiting for a connection
+connection from ('127.0.0.1', 51939)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51939)
+waiting for a connection
+connection from ('127.0.0.1', 51940)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51940)
+waiting for a connection
+connection from ('127.0.0.1', 51941)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51941)
+waiting for a connection
+connection from ('127.0.0.1', 51942)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51942)
+waiting for a connection
+connection from ('127.0.0.1', 51943)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51943)
+waiting for a connection
+connection from ('127.0.0.1', 51944)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51944)
+waiting for a connection
+connection from ('127.0.0.1', 51945)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51945)
+waiting for a connection
+connection from ('127.0.0.1', 51946)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51946)
+waiting for a connection
+connection from ('127.0.0.1', 51947)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51947)
+waiting for a connection
+connection from ('127.0.0.1', 51948)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51948)
+waiting for a connection
+connection from ('127.0.0.1', 51949)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51949)
+waiting for a connection
+connection from ('127.0.0.1', 51950)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51950)
+waiting for a connection
+connection from ('127.0.0.1', 51951)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51951)
+waiting for a connection
+connection from ('127.0.0.1', 51952)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51952)
+waiting for a connection
+connection from ('127.0.0.1', 51953)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51953)
+waiting for a connection
+connection from ('127.0.0.1', 51954)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51954)
+waiting for a connection
+starting up on localhost port 10000
+waiting for a connection
+connection from ('127.0.0.1', 51974)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51974)
+waiting for a connection
+connection from ('127.0.0.1', 51975)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51975)
+waiting for a connection
+connection from ('127.0.0.1', 51976)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51976)
+waiting for a connection
+connection from ('127.0.0.1', 51977)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51977)
+waiting for a connection
+connection from ('127.0.0.1', 51978)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51978)
+waiting for a connection
+connection from ('127.0.0.1', 51979)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51979)
+waiting for a connection
+connection from ('127.0.0.1', 51980)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51980)
+waiting for a connection
+connection from ('127.0.0.1', 51981)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51981)
+waiting for a connection
+connection from ('127.0.0.1', 51982)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51982)
+waiting for a connection
+connection from ('127.0.0.1', 51983)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51983)
+waiting for a connection
+connection from ('127.0.0.1', 51984)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51984)
+waiting for a connection
+connection from ('127.0.0.1', 51985)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51985)
+waiting for a connection
+connection from ('127.0.0.1', 51986)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51986)
+waiting for a connection
+connection from ('127.0.0.1', 51987)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51987)
+waiting for a connection
+connection from ('127.0.0.1', 51988)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51988)
+waiting for a connection
+connection from ('127.0.0.1', 51989)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51989)
+waiting for a connection
+connection from ('127.0.0.1', 51990)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51990)
+waiting for a connection
+connection from ('127.0.0.1', 51991)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51991)
+waiting for a connection
+connection from ('127.0.0.1', 51992)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51992)
+waiting for a connection
+connection from ('127.0.0.1', 51993)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51993)
+waiting for a connection
+connection from ('127.0.0.1', 51994)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51994)
+waiting for a connection
+connection from ('127.0.0.1', 51995)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51995)
+waiting for a connection
+connection from ('127.0.0.1', 51996)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51996)
+waiting for a connection
+connection from ('127.0.0.1', 51997)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51997)
+waiting for a connection
+connection from ('127.0.0.1', 51998)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51998)
+waiting for a connection
+connection from ('127.0.0.1', 51999)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 51999)
+waiting for a connection
+connection from ('127.0.0.1', 52000)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52000)
+waiting for a connection
+connection from ('127.0.0.1', 52001)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52001)
+waiting for a connection
+connection from ('127.0.0.1', 52002)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52002)
+waiting for a connection
+connection from ('127.0.0.1', 52003)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52003)
+waiting for a connection
+connection from ('127.0.0.1', 52004)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52004)
+waiting for a connection
+connection from ('127.0.0.1', 52005)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52005)
+waiting for a connection
+connection from ('127.0.0.1', 52006)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52006)
+waiting for a connection
+connection from ('127.0.0.1', 52007)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52007)
+waiting for a connection
+connection from ('127.0.0.1', 52008)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52008)
+waiting for a connection
+connection from ('127.0.0.1', 52009)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52009)
+waiting for a connection
+connection from ('127.0.0.1', 52010)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52010)
+waiting for a connection
+connection from ('127.0.0.1', 52011)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52011)
+waiting for a connection
+connection from ('127.0.0.1', 52012)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52012)
+waiting for a connection
+connection from ('127.0.0.1', 52013)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52013)
+waiting for a connection
+connection from ('127.0.0.1', 52014)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52014)
+waiting for a connection
+connection from ('127.0.0.1', 52015)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52015)
+waiting for a connection
+connection from ('127.0.0.1', 52016)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52016)
+waiting for a connection
+connection from ('127.0.0.1', 52017)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52017)
+waiting for a connection
+connection from ('127.0.0.1', 52018)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52018)
+waiting for a connection
+connection from ('127.0.0.1', 52019)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52019)
+waiting for a connection
+connection from ('127.0.0.1', 52020)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52020)
+waiting for a connection
+connection from ('127.0.0.1', 52021)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52021)
+waiting for a connection
+connection from ('127.0.0.1', 52022)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52022)
+waiting for a connection
+connection from ('127.0.0.1', 52023)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52023)
+waiting for a connection
+connection from ('127.0.0.1', 52024)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52024)
+waiting for a connection
+connection from ('127.0.0.1', 52025)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52025)
+waiting for a connection
+connection from ('127.0.0.1', 52026)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52026)
+waiting for a connection
+connection from ('127.0.0.1', 52027)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52027)
+waiting for a connection
+connection from ('127.0.0.1', 52028)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52028)
+waiting for a connection
+connection from ('127.0.0.1', 52029)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52029)
+waiting for a connection
+connection from ('127.0.0.1', 52030)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52030)
+waiting for a connection
+connection from ('127.0.0.1', 52031)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52031)
+waiting for a connection
+connection from ('127.0.0.1', 52032)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52032)
+waiting for a connection
+connection from ('127.0.0.1', 52033)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52033)
+waiting for a connection
+connection from ('127.0.0.1', 52034)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52034)
+waiting for a connection
+connection from ('127.0.0.1', 52035)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52035)
+waiting for a connection
+connection from ('127.0.0.1', 52036)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52036)
+waiting for a connection
+connection from ('127.0.0.1', 52037)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52037)
+waiting for a connection
+connection from ('127.0.0.1', 52038)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52038)
+waiting for a connection
+connection from ('127.0.0.1', 52039)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52039)
+waiting for a connection
+connection from ('127.0.0.1', 52040)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52040)
+waiting for a connection
+connection from ('127.0.0.1', 52041)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52041)
+waiting for a connection
+connection from ('127.0.0.1', 52042)
+received " 6205 Best Friend Road Suite D, Norcross, GA 30071"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52042)
+waiting for a connection
+connection from ('127.0.0.1', 52043)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52043)
+waiting for a connection
+connection from ('127.0.0.1', 52044)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52044)
+waiting for a connection
+connection from ('127.0.0.1', 52045)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52045)
+waiting for a connection
+connection from ('127.0.0.1', 52046)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52046)
+waiting for a connection
+connection from ('127.0.0.1', 52047)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52047)
+waiting for a connection
+connection from ('127.0.0.1', 52048)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52048)
+waiting for a connection
+connection from ('127.0.0.1', 52049)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52049)
+waiting for a connection
+connection from ('127.0.0.1', 52050)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52050)
+waiting for a connection
+connection from ('127.0.0.1', 52051)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52051)
+waiting for a connection
+connection from ('127.0.0.1', 52052)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52052)
+waiting for a connection
+connection from ('127.0.0.1', 52053)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52053)
+waiting for a connection
+connection from ('127.0.0.1', 52054)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52054)
+waiting for a connection
+connection from ('127.0.0.1', 52055)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52055)
+waiting for a connection
+connection from ('127.0.0.1', 52056)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52056)
+waiting for a connection
+connection from ('127.0.0.1', 52057)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52057)
+waiting for a connection
+connection from ('127.0.0.1', 52058)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52058)
+waiting for a connection
+connection from ('127.0.0.1', 52059)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52059)
+waiting for a connection
+connection from ('127.0.0.1', 52060)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52060)
+waiting for a connection
+connection from ('127.0.0.1', 52061)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52061)
+waiting for a connection
+connection from ('127.0.0.1', 52062)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52062)
+waiting for a connection
+connection from ('127.0.0.1', 52063)
+received "11 Golden Shore Dr., Ste. 340 Long Beach ,CA 90802"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52063)
+waiting for a connection
+connection from ('127.0.0.1', 52064)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52064)
+waiting for a connection
+connection from ('127.0.0.1', 52065)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52065)
+waiting for a connection
+connection from ('127.0.0.1', 52066)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52066)
+waiting for a connection
+connection from ('127.0.0.1', 52067)
+received "4039 S Peoria St. Chicago IL 60609 Cook"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52067)
+waiting for a connection
+connection from ('127.0.0.1', 52068)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52068)
+waiting for a connection
+connection from ('127.0.0.1', 52069)
+received "7303 Burleson Road Omni Suite 201 Austin TX 78744"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52069)
+waiting for a connection
+connection from ('127.0.0.1', 52070)
+received "135th St. & New Ave., Lemont, IL, 60439"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52070)
+waiting for a connection
+connection from ('127.0.0.1', 52071)
+received "123 Main St. Suite 100 Chicago, IL"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52071)
+waiting for a connection
+connection from ('127.0.0.1', 52072)
+received "10300 W Charleston, #13-351, Las Vegas NV 89135,"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52072)
+waiting for a connection
+connection from ('127.0.0.1', 52073)
+received "137 Ripplewood Drive, Greece NY, 14616"
+sending data back to the client
+received ""
+no more data from ('127.0.0.1', 52073)
+waiting for a connection
+starting up on localhost port 10000
+waiting for a connection
+connection from ('127.0.0.1', 52165)
+waiting for a connection
+starting up on localhost port 10000
+waiting for a connection
+waiting for a connection
+waiting for a connection
+connection from ('127.0.0.1', 52186)
+connection from ('127.0.0.1', 52187)
+connection from ('127.0.0.1', 52188)
+connection from ('127.0.0.1', 52189)
+connection from ('127.0.0.1', 52190)
+connection from ('127.0.0.1', 52191)
+connection from ('127.0.0.1', 52192)
+connection from ('127.0.0.1', 52193)
+connection from ('127.0.0.1', 52194)
+connection from ('127.0.0.1', 52195)
+connection from ('127.0.0.1', 52196)
+connection from ('127.0.0.1', 52197)
+connection from ('127.0.0.1', 52198)
+connection from ('127.0.0.1', 52199)
+connection from ('127.0.0.1', 52200)
+connection from ('127.0.0.1', 52201)
+connection from ('127.0.0.1', 52202)
+connection from ('127.0.0.1', 52203)
+connection from ('127.0.0.1', 52204)
+connection from ('127.0.0.1', 52205)
+connection from ('127.0.0.1', 52206)
+connection from ('127.0.0.1', 52207)
+connection from ('127.0.0.1', 52208)
+connection from ('127.0.0.1', 52209)
+connection from ('127.0.0.1', 52210)
+connection from ('127.0.0.1', 52211)
+connection from ('127.0.0.1', 52212)
+connection from ('127.0.0.1', 52213)
+connection from ('127.0.0.1', 52214)
+connection from ('127.0.0.1', 52215)
+connection from ('127.0.0.1', 52216)
+connection from ('127.0.0.1', 52217)
+connection from ('127.0.0.1', 52218)
+connection from ('127.0.0.1', 52219)
+connection from ('127.0.0.1', 52220)
+connection from ('127.0.0.1', 52221)
+connection from ('127.0.0.1', 52222)
+connection from ('127.0.0.1', 52223)
+connection from ('127.0.0.1', 52224)
+connection from ('127.0.0.1', 52225)
+connection from ('127.0.0.1', 52226)
+connection from ('127.0.0.1', 52227)
+connection from ('127.0.0.1', 52228)
+connection from ('127.0.0.1', 52229)
+connection from ('127.0.0.1', 52230)
+connection from ('127.0.0.1', 52231)
+connection from ('127.0.0.1', 52232)
+connection from ('127.0.0.1', 52233)
+connection from ('127.0.0.1', 52234)
+connection from ('127.0.0.1', 52235)
+connection from ('127.0.0.1', 52236)
+connection from ('127.0.0.1', 52237)
+connection from ('127.0.0.1', 52238)
+connection from ('127.0.0.1', 52239)
+connection from ('127.0.0.1', 52240)
+connection from ('127.0.0.1', 52241)
+connection from ('127.0.0.1', 52242)
+connection from ('127.0.0.1', 52243)
+connection from ('127.0.0.1', 52244)
+connection from ('127.0.0.1', 52245)
+connection from ('127.0.0.1', 52246)
+connection from ('127.0.0.1', 52247)
+connection from ('127.0.0.1', 52248)
+connection from ('127.0.0.1', 52249)
+connection from ('127.0.0.1', 52250)
+connection from ('127.0.0.1', 52251)
+connection from ('127.0.0.1', 52252)
+connection from ('127.0.0.1', 52253)
+connection from ('127.0.0.1', 52254)
+connection from ('127.0.0.1', 52255)
+connection from ('127.0.0.1', 52256)
+connection from ('127.0.0.1', 52257)
+connection from ('127.0.0.1', 52258)
+connection from ('127.0.0.1', 52259)
+connection from ('127.0.0.1', 52260)
+connection from ('127.0.0.1', 52261)
+connection from ('127.0.0.1', 52262)
+connection from ('127.0.0.1', 52263)
+connection from ('127.0.0.1', 52264)
+connection from ('127.0.0.1', 52265)
+connection from ('127.0.0.1', 52266)
+connection from ('127.0.0.1', 52267)
+connection from ('127.0.0.1', 52268)
+connection from ('127.0.0.1', 52269)
+connection from ('127.0.0.1', 52270)
+connection from ('127.0.0.1', 52271)
+connection from ('127.0.0.1', 52272)
+connection from ('127.0.0.1', 52273)
+connection from ('127.0.0.1', 52274)
+connection from ('127.0.0.1', 52275)
+connection from ('127.0.0.1', 52276)
+connection from ('127.0.0.1', 52277)
+connection from ('127.0.0.1', 52278)
+connection from ('127.0.0.1', 52279)
+connection from ('127.0.0.1', 52280)
+connection from ('127.0.0.1', 52281)
+connection from ('127.0.0.1', 52282)
+connection from ('127.0.0.1', 52283)
+connection from ('127.0.0.1', 52284)
+connection from ('127.0.0.1', 52285)
