@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+
+    <key>Label</key>
+    <string>local.usaddress.plist</string>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StartInterval</key>
+    <integer>20</integer>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/jasonflorack/Code/usaddress/echo_server/logs/stderr.log</string>
+
+    <key>StandardOutPath</key>
+    <string>/Users/jasonflorack/Code/usaddress/echo_server/logs/stdout.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+      <key>PATH</key>
+      <string><![CDATA[/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin]]></string>
+    </dict>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/jasonflorack/demo</string>
+
+    <key>ProgramArguments</key>
+    <array>
+      <string>/Users/jasonflorack/.virtualenvs/usaddress/bin/python</string>
+      <string>/Users/jasonflorack/Code/usaddress/echo_server/socket_echo_server.py</string>
+    </array>
+
+  </dict>
+</plist>
+
+
+
